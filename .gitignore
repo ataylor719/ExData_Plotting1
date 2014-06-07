@@ -1,0 +1,7 @@
+.Rproj.user
+ExData_Plotting1.Rproj
+.Rhistory
+.RData
+.DS_Store
+load_data.R
+household_power_consumption.txt
